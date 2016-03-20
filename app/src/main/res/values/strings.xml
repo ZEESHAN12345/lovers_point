@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lovers_point</string>
+    <string name="other_options">Options</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_page1_signup">page1_signup</string>
+    <string name="title_activity_page1_signin">page1_signin</string>
+</resources>
